@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgi {
+
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+
+}
+
+.i1 {
+    height: 50vh;
+    width: 50vh;
+}
+
+.me {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+.h1 {
+    color: #132d84;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 30px;
+}
+
+.pl {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 30px;
+
+}
+
+.b1 {
+    color: white;
+    background-color: #132d84;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.sc {
+    background-color: #ffedcb;
+
+    background-size: cover;
+
+    margin: 20px;
+}
+
+.me2 {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 40px;
+}
+
+.p2 {
+    color: #253263;
+    font-size: 15px;
+    text-align: center;
+
+
+}
+
+.h2 {
+    color: #132d84;
+    font-size: 20px;
+    text-align: center;
+
+
+
+}
+
+.he {
+    height: 120px;
+    width: 90vh;
+}
+
+
+
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0e5c9;
+    margin: 0;
+}
+
+.card {
+    display: flex;
+    align-items: start;
+    background-color: #fff4d1;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+    width: 50px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.content h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #000;
+}
+
+.content p {
+    margin: 0;
+    color: #555;
+}
+
+.m {
+    margin: 10px;
+}
